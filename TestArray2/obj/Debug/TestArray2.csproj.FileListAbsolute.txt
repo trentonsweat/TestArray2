@@ -1,0 +1,7 @@
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\bin\Debug\TestArray2.exe.config
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\bin\Debug\TestArray2.exe
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\bin\Debug\TestArray2.pdb
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\obj\Debug\TestArray2.csprojResolveAssemblyReference.cache
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\obj\Debug\TestArray2.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\obj\Debug\TestArray2.exe
+C:\Users\Marilyn\Documents\Bootcamp\TestArray2\TestArray2\obj\Debug\TestArray2.pdb
